@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+  <Hotel>
+    <Name>Grand Plaza</Name>
+    <Address>
+      <Number>123</Number>
+      <Street>Main St</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10001</Zip>
+      <NearestAirport>JFK</NearestAirport> <!-- Corrected spelling -->
+    </Address>
+    <Phone>123-456-7890</Phone>
+    <Phone>987-654-3210</Phone>
+    <Rating>4.5</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>Seaside Resort</Name>
+    <Address>
+      <Number>456</Number>
+      <Street>Ocean Ave</Street>
+      <City>Los Angeles</City>
+      <State>CA</State>
+      <Zip>90001</Zip>
+      <NearestAirport>LAX</NearestAirport> <!-- Corrected spelling -->
+    </Address>
+    <Phone>310-123-4567</Phone>
+    <Phone>310-765-4321</Phone>
+    <Rating>4.0</Rating>
+  </Hotel>
+</Hotels>
